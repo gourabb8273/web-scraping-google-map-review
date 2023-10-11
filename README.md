@@ -1,4 +1,6 @@
-# Web scrping google map reviews 
+# Web scrping google map reviews for a particular place
 ## Run the code with following steps
-### npm i
-### node scapingPlaceReview (please change the sorting text and excel file name accordinly with place google URL)
+1. Install Nodejs 
+2. npm i
+3. node scapingPlaceReview 
+(please change the sorting text (like Newest etc) and excel file name according with place Google URL)
